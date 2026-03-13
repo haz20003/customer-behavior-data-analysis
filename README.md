@@ -1,4 +1,3 @@
-# customer-behavior-data-analysis
 # Customer Behavior Data Analysis
 
 This project explores customer demographic and spending behavior using exploratory data analysis techniques.
